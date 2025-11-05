@@ -14,8 +14,6 @@ const StyledApp = styled.div`
 `;
 
 function App() {
-  // const { card1, p1Score, card2, p2Score } = usePlayer();
-
   return (
     <PlayerProvider>
       <StyledApp>
