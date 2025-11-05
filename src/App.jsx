@@ -1,6 +1,6 @@
 import Player from "./components/Player";
 import styled from "styled-components";
-import Buttons from "./components/Button";
+import Buttons from "./components/Buttons";
 import { PlayerProvider } from "./contexts/PlayerContext";
 
 const StyledApp = styled.div`
