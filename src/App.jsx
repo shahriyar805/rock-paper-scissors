@@ -2,7 +2,6 @@ import Player from "./components/Player";
 import styled from "styled-components";
 import Buttons from "./components/Button";
 import { PlayerProvider } from "./contexts/PlayerContext";
-// import { usePlayer } from "./contexts/usePlayer";
 
 const StyledApp = styled.div`
   display: flex;
